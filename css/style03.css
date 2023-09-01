@@ -1,0 +1,97 @@
+body{
+    background-image: url(../images/imglogin03/bg03.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#welcome{
+    position: fixed;
+    top: 0px;
+    font-size: 100px;
+    color: #ffffff;
+    -webkit-text-stroke: 1px rgb(3, 2, 2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#cake01{
+    position: fixed;
+    top: 200px;
+    left: 50px;
+    width: 500px;
+}
+
+img{
+    width: 50px;
+}
+
+#logintext{
+    position: fixed;
+    top: 100px;
+    right:300px;
+}
+
+.inputbox {
+    font-size: 18px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#mail{
+    position: fixed;
+    top: 200px;
+    right:270px;
+}
+
+#ic1{
+    position: fixed;
+    top: 200px;
+    right:480px;
+}
+
+#ic2{
+    position: fixed;
+    top: 300px;
+    right:480px;
+}
+
+#passworld{
+    position: fixed;
+    top: 300px;
+    right:270px;
+}
+
+#forgotpass{
+    position: fixed;
+    top: 360px;
+    right:330px;
+    color: #000;
+}
+
+#loginbt{
+    position: fixed;
+    top: 400px;
+    right: 270px;
+    font-size: 18px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #272B2C;
+    color: #ffffff;
+}
+
+#ic3{
+    position: fixed;
+    top: 400px;
+    right: 480px;
+}
+

@@ -1,0 +1,132 @@
+body{
+    background-image: url(../images/imglogin02/bg02.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#cake{
+    width: 100px;
+}
+
+#welcome{
+    position: fixed;
+    top: 50px;
+    left: 420px;
+    font-size: 50px;
+    color: #ffffff;
+    
+}
+
+#cake01{
+    width: 75px;
+}
+
+.button{
+    border-radius: 30px;
+    position: fixed;
+    top: 200px;
+    left: 600px;
+    font-size: 50px;
+    background-color: #27A1E7;
+}
+
+img{
+    width: 50px;
+}
+
+hr{
+    border: 2px solid black;
+}
+
+#h2{
+    text-align: center;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+}
+
+.divider hr {
+    flex-grow: 1;
+    border: none;
+    height: 2px;
+    background-color: black;
+}
+
+span{
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+.icon{
+    position: fixed;
+    top: 400px;
+    left: 270px;
+}
+
+.inputbox {
+    font-size: 18px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#mail{
+    position: fixed;
+    left: 330px;
+}
+
+#passworld{
+    position: fixed;
+    left: 660px;
+}
+
+#forgotpass{
+    color: black;
+    position: fixed;
+    top: 460px;
+    left: 725px;
+}
+
+#ic2{
+    position: fixed;
+    left: 600px;
+}
+
+#ic3{
+    position: fixed;
+    left: 930px;
+}
+
+#login{
+    position: fixed;
+    font-size: 20px;
+    left: 1000px;
+    top: 400px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    color: #ffffff;
+    background-color: black;
+}
+
+#google{
+    background-color: #ffffff;
+}
+
+#register{
+    color: #ffffff;
+}
